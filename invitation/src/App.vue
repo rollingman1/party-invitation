@@ -7,6 +7,21 @@
     <div class="glass">
       <span class="beer"></span>
     </div>
+    <div class="letter">
+        <span class="text">
+            <h1> 안녕하세요 </h1>
+            <h2> 파티에 초대합니다 </h2>
+            <p>
+                장소 : 무디살롱<br/>
+                시간 : 당신이 원하는 한 계속 있을 수 있습니다.<br/>
+                당신에 대해서 알고 싶어요: <a href="https://forms.gle/S2zGgj2i7dRsarka6" style="color:white">설문 링크</a>
+            </p>
+            <p>
+                연락주세요 <a href="tel:01094728260" style="color:white">01094728260</a>
+            </p>
+            
+        </span>
+    </div>
   </div>
 </template>
 
@@ -239,6 +254,18 @@ body {
     to {
         transform: skewY(3deg);
     }
+}
+
+.letter {
+    width: 97%;
+
+    position: absolute;
+    bottom: -100%;
+    text-align: center;
+}
+
+.text {
+    color:#eee;;
 }
 
 </style>
