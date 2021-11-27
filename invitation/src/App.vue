@@ -9,16 +9,18 @@
     </div>
     <div class="letter">
         <span class="text">
-            <h1> 안녕하세요 </h1>
-            <h2> 파티에 초대합니다 </h2>
-            <p>
-                장소 : 무디살롱<br/>
-                시간 : 당신이 원하는 한 계속 있을 수 있습니다.<br/>
-                당신에 대해서 알고 싶어요: <a href="https://forms.gle/S2zGgj2i7dRsarka6" style="color:white">설문 링크</a>
-            </p>
-            <p>
-                연락주세요 <a href="tel:01094728260" style="color:white">01094728260</a>
-            </p>
+            <h1> 안녕하세요👋 </h1>
+            <h2> 2021 연말 파티에 초대합니다 </h2>
+            <div class="content">
+              <p>
+                  장소 : <a href="http://naver.me/xAtVAcaA" style="color:white">무디살롱</a><br/>
+                  날짜 : 2021년 12월 4일<br/>
+                  시간 : 18시 30분 ~ 23시 00분 <br/>
+              </p>
+              <p>
+                  연락주세요 📞 <a href="tel:01094728260" style="color:white">01094728260</a>
+              </p>
+            </div>
             
         </span>
     </div>
@@ -26,17 +28,51 @@
 </template>
 
 <style>
-body {
-    margin: 0;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    background: linear-gradient(
-        lightslategray 300px,
-        #333 300px
-    );
-    overflow: hidden;
+/* @import url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2110@1.0/KOTRALEAP.woff2'); */
+/* @font-face {
+  font-family: 'ONE-Mobile-POP';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/ONE-Mobile-POP.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+} */
+@import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
+
+@font-face {
+    font-family: 'KOTRALEAP';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2110@1.0/KOTRALEAP.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
 }
+
+@font-face {
+    font-family: 'MaruBuri-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.0/MaruBuri-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+  margin: 0;
+  height: 500vh;
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(
+      lightslategray 300px,
+      #333 300px
+  );
+  overflow: hidden;
+  font-family: 'KOTRALEAP';
+  /* src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2110@1.0/KOTRALEAP.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal; */
+  /* font-family: 'NanumSquare', sans-serif; */
+}
+
+.content {
+  font-family: 'NanumSquare';
+  line-height: 30px;
+}
+
 
 .container {
     width: 700px;
@@ -258,9 +294,8 @@ body {
 
 .letter {
     width: 97%;
-
     position: absolute;
-    bottom: -100%;
+    bottom: -110%;
     text-align: center;
 }
 
