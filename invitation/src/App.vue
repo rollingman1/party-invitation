@@ -16,6 +16,7 @@
                   장소 : <a href="http://naver.me/xAtVAcaA" style="color:white">무디살롱</a><br/>
                   날짜 : 2021년 12월 4일<br/>
                   시간 : 18시 30분 ~ 23시 00분 <br/>
+                  참가비 : 2만원 <br/>
               </p>
               <p>
                   연락주세요 📞 <a href="tel:01094728260" style="color:white">01094728260</a>
