@@ -9,18 +9,59 @@
     </div>
     <div class="letter">
         <span class="text">
-            <h1> 안녕하세요👋 </h1>
-            <h2> 2021 연말 파티에 초대합니다 </h2>
+            <h1> 안녕하세요. 교수님:) </h1>
+            <h2> YLA 경영반 16기 종강행사에 교수님을 초대합니다.
+            교수님과 학우들이 함께 의미있는 시간을 보낼 수 있도록 준비해 보았습니다.
+            참석해서 자리를 빛내주시면 감사하겠습니다! </h2>
             <div class="content">
               <p>
-                  장소 : <a href="http://naver.me/xAtVAcaA" style="color:white">무디살롱</a><br/>
-                  날짜 : 2021년 12월 4일<br/>
-                  시간 : 18시 30분 ~ 23시 00분 <br/>
-                  참가비 : 2만원 <br/>
-                  드레스코드 : 블랙이나 레드나 각자 멋진 옷 입고오기 <br/>
+                  날짜 : 2021년 12월 18일 토요일<br/>
+                  점심식사 : 13시 00분 ~ 15시 00분<br/>
+                  식사장소 : <a href="http://naver.me/x1egXOMn" style="color:white">미즈컨테이너 동대문점</a><br/>
+                  본행사 : 15시 00분 ~ 16시 00분 <br/>
+                  행사장소 : <a href="http://naver.me/51YDhpaE" style="color:white">종로여가</a><br/>
+                  세부일정<br/>
+                  <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">13:00 ~ 15:00</th>
+    <th class="tg-0lax">점심 식사</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">15:00 ~ 15:10</td>
+    <td class="tg-0lax">인트로 영상</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">15:10 ~ 15:30</td>
+    <td class="tg-0lax">감사패 전달 및 교수님 훈화 말씀</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">15:30 ~ 15:50</td>
+    <td class="tg-0lax">학우들 소감 발표</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">15:50 ~ 16:00</td>
+    <td class="tg-0lax">서프라이즈 영상</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">16:00 ~</td>
+    <td class="tg-0lax">송년회 종료 / 포토타임 / 담소</td>
+  </tr>
+</tbody>
+</table>
               </p>
               <p>
-                  연락주세요 📞 <a href="tel:01094728260" style="color:white">01094728260</a>
+                  문의사항은 전화주시면 답변드리겠습니다 📞 <a href="tel:01048260369" style="color:white">01048260369</a>
               </p>
             </div>
             
