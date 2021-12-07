@@ -14,16 +14,16 @@
     <div class="letter">
         <div class="text">
             <h1> 안녕하세요. 교수님:) </h1>
-            <h3> YLA 경영반 16기 종강행사에 교수님을 초대합니다.<br/>
-            교수님과 학우들이 함께 의미있는 시간을 보낼 수 있도록 준비해 보았습니다.<br/>
-            참석해서 자리를 빛내주시면 감사하겠습니다!<br/> </h3>
+            <h3> YLA 경영반 16기 종강행사에 초대합니다.<br/>
+            교수님과 학우들이 함께 의미있는 시간을<br/>
+            보낼 수 있도록 준비해 보았습니다.<br/>
+            참석해서 자리를 빛내주시면 좋겠습니다!<br/>
+            항상 감사드립니다:)<br/> </h3>
             <div class="content">
               <p>
                   날짜 : 2021년 12월 18일 토요일<br/>
-                  점심식사 : 13시 00분 ~ 15시 00분<br/>
-                  식사장소 : <a href="http://naver.me/x1egXOMn" style="color:white">미즈컨테이너 동대문점</a><br/>
-                  본행사 : 15시 00분 ~ 16시 00분 <br/>
-                  행사장소 : <a href="http://naver.me/51YDhpaE" style="color:white">종로여가</a>
+                  시간 : 13시 00분 ~ 16시 00분 <br/>
+                  장소 : <a href="http://naver.me/51YDhpaE" style="color:white">종로여가</a>
               </p>
               <p>
                   세부일정<br/>
@@ -59,7 +59,8 @@
                     </table>
               </p>
               <p>
-                  문의사항은 전화주시면 답변드리겠습니다 📞 <a href="tel:01048260369" style="color:white">010-4826-0369</a>
+                  문의사항은 전화주시면 답변드리겠습니다.<br/>
+                  📞 <a href="tel:01048260369" style="color:white">010-4826-0369</a>
               </p>
             </div>
             
